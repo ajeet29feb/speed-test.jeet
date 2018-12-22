@@ -1,0 +1,34 @@
+
+body {
+    background-color: powderblue;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: #4c5d61;
+}
+
+p {
+    color: red;
+}
+
+.big-font{
+    font-size: 20vh;
+}
+
+.medium-font{
+    font-size: 10vh;
+}
+
+.small-font{
+    font-size: x-large;
+}
+
+#upload-btn-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

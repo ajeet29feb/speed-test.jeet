@@ -1,0 +1,5 @@
+com\speed\controller\StreamingResponseBodyController.class
+com\speed\service\UploadSpeedCheck.class
+com\speed\MyApplication.class
+com\speed\service\DownloadSpeedCheck.class
+com\speed\controller\WebController.class
